@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Yash Nawani
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Python Language
 - 💞️ I’m looking to collaborate on various software projects
 - 📫 You can reach me on my email
 
